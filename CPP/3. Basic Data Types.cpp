@@ -16,4 +16,3 @@ int main() {
     printf("%lf\n",d);
     return 0;
 }
-
